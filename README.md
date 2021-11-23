@@ -16,4 +16,4 @@ By the way, Frequent Itemset Mining algorithms are not domain-specific: you coul
 An example use case for the FP Growth algorithm
 Let’s use an example data set that contains a list of transactions of a night store. For each transaction, we have a list of products that were bought during the transaction. The example is also used in this article on the Apriori algorithm, so that will give us an interesting benchmark to compare the performances of the two algorithms.
 
-Please refer Colab for details: 
+Please refer Colab for details: https://github.com/AnishaA-git/frequent_pattern_matching/blob/master/frequent_pattern_matching.ipynb
